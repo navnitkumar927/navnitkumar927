@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Navnit Kumar</h1>
-
-<h3 align="center">
-🚀 DevOps Engineer | AWS | Azure | Kubernetes | Docker | Terraform
-</h3>
+<h3 align="center">DevOps Engineer | AWS | Azure | Kubernetes | Cloud Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud;Azure+Cloud;Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;CI%2FCD+Automation;Linux+Administrator;Always+Learning+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=navnitkumar927&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/navnitkumar927?logo=github&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/navnitkumar927?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
