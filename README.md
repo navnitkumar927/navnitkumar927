@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navnit Kumar</h1>
 
 <h3 align="center">
-DevOps Engineer | AWS | Azure | Kubernetes | Docker | Terraform
+🚀 DevOps Engineer | AWS | Azure | Kubernetes | Docker | Terraform
 </h3>
 
 <p align="center">
