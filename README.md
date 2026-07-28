@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github,nginx,nodejs,react,mysql,python,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github,nginx,mysql,python,vscode,gitlab,ansible,gitaction,python,networking,gitops,argocd" />
 
 </p>
 
