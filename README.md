@@ -31,9 +31,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,ansible,githubactions,gitlab,git,github,bash,linux,ubuntu,python,nodejs,java,react,nginx,mysql,postgres,mongodb,vscode,postman,prometheus,grafana&perline=7"/>
-
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,ansible,githubactions,gitlab,git,github,bash,linux,ubuntu,python,nginx,mysql,postgres,mongodb,vscode,postman,prometheus,grafana&perline=24" />
 </p>
 
 ---
