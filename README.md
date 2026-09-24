@@ -48,7 +48,6 @@
 ---
 
 🚀 DevOps Capabilities
-
 Cloud Infrastructure
         ↓
 Linux & Networking
