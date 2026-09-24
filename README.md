@@ -70,6 +70,7 @@ DevSecOps
 Production & SRE Practices
 
 🔥 Featured Areas
+
 ☁️ Cloud Engineering
 
 Designing and deploying cloud infrastructure with AWS and Azure while focusing on reliability, scalability, security, and automation.
@@ -141,8 +142,6 @@ Working with Prometheus, Grafana, Loki, and modern monitoring and logging practi
 ---
 
 # 📚 Currently Learning
-
-📚 Currently Learning
 
 <p> <img src="https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Helm-Learning-0F1689?style=for-the-badge&logo=helm&logoColor=white"/> <img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/Loki-Observability-F46800?style=for-the-badge"/> <img src="https://img.shields.io/badge/ELK-Logging-005571?style=for-the-badge&logo=elastic"/> </p>
 
