@@ -46,7 +46,9 @@
 
 <p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,postman,vscode" /> </p>
 ---
+
 🚀 DevOps Capabilities
+
 Cloud Infrastructure
         ↓
 Linux & Networking
