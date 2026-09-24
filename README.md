@@ -1,120 +1,210 @@
-<h1 align="center">Hi 👋, I'm Navnit Kumar</h1>
-<h3 align="center">DevOps Engineer | AWS | Azure | Kubernetes | Cloud Enthusiast</h3>
+# Hi, I'm Navnit Kumar 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+Enthusiast;Always+Learning+New+Technologies" />
-</p>
+## DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | DevSecOps
 
----
+I'm a DevOps Engineer focused on cloud infrastructure, automation, containerization, CI/CD, and DevSecOps.
 
-# 👨‍💻 About Me
+I enjoy building practical systems that automate and secure the journey from:
 
-- 💼 DevOps Engineer at **TechAvtar**
-- ☁️ AWS & Azure Cloud Engineer
-- 🐳 Docker & Kubernetes Enthusiast
-- ⚙️ Terraform | Jenkins | GitHub Actions
-- 📈 Monitoring with Prometheus & Grafana
-- 🌱 Currently Learning ArgoCD & Helm
-- 🎯 Goal: Cloud & DevOps Architect
+**Code → Build → Security → Containerization → Deployment → Monitoring**
 
 ---
 
-# 🚀 Tech Stack
+## 👨‍💻 About Me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,ansible,githubactions,gitlab,git,github,bash,linux,ubuntu,python,nginx,mysql,postgres,mongodb,vscode,postman,prometheus,grafana&perline=24" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=navnitkumar927&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navnitkumar927&layout=compact&theme=tokyonight"/>
-
-</p>
+* 💼 DevOps Engineer at TechAvtar
+* ☁️ AWS & Cloud Infrastructure
+* 🐧 Linux & Server Administration
+* 🐳 Docker & Docker Compose
+* ☸️ Kubernetes
+* 🏗️ Terraform & Infrastructure as Code
+* 🔄 Jenkins, GitHub Actions & GitLab CI/CD
+* 🔐 DevSecOps & Cloud Security
+* 📊 Prometheus & Grafana
+* 🌐 Nginx & Reverse Proxy
+* 🛡️ SonarQube, Trivy & OWASP tooling
+* 🚀 Hands-on cloud and DevOps projects
 
 ---
 
-# 🔥 GitHub Streak
+## 🛠️ Tech Stack
 
-<p align="center">
+### Cloud
 
-<img src="https://streak-stats.demolab.com?user=navnitkumar927&theme=tokyonight"/>
+AWS • EC2 • S3 • IAM
 
-</p>
+### DevOps
 
----
+Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • GitLab CI/CD • Ansible
 
-# 📈 Contribution Graph
+### Security
 
-<p align="center">
+DevSecOps • SonarQube • Trivy • OWASP Dependency-Check
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navnitkumar927&theme=tokyo-night"/>
+### Monitoring
 
-</p>
+Prometheus • Grafana
 
----
+### Systems
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=navnitkumar927&theme=algolia&column=4"/>
-
-</p>
+Linux • Ubuntu • Bash • Nginx • Git
 
 ---
 
-# 📚 Currently Learning
+# 🚀 Featured Projects
 
-<p align="center">
+## 🔥 DeployX
 
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+### DevOps & DevSecOps Deployment Platform
 
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+DeployX is an end-to-end DevOps/DevSecOps project focused on infrastructure automation, CI/CD, containerization, security scanning, cloud deployment and monitoring.
 
-<img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge"/>
+### Key Technologies
 
-<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge"/>
+AWS EC2 • Terraform • Docker • Docker Compose • GitLab CI/CD • Jenkins • SonarQube • Trivy • OWASP Dependency-Check • Nginx • Prometheus • Grafana
 
-<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack"/>
+### Workflow
 
-</p>
+```text
+Git Push
+   ↓
+GitLab
+   ↓
+CI/CD
+   ↓
+Build & Test
+   ↓
+SonarQube
+   ↓
+OWASP Dependency-Check
+   ↓
+Trivy
+   ↓
+Docker
+   ↓
+AWS EC2
+   ↓
+Nginx
+   ↓
+Monitoring
+   ↓
+Prometheus + Grafana
+```
+
+🌐 Live Demo:
+
+https://deploy-x-hcjs.vercel.app/
 
 ---
 
-# 🌐 Connect With Me
+## 🔐 Feasto
 
-<p align="center">
+### DevSecOps Food Ordering Platform
 
-<a href="https://github.com/navnitkumar927">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+Production-style full-stack application demonstrating secure CI/CD and cloud deployment.
 
-<a href="https://linkedin.com/in/navnit-kumar-0b7475307">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+### Stack
 
-<a href="mailto:navnitkumar927@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+React • TypeScript • Node.js • Express • PostgreSQL • Prisma • Docker • Jenkins • SonarQube • OWASP Dependency-Check • Trivy • AWS EC2 • Nginx
 
-</p>
+### DevSecOps Flow
+
+```text
+GitHub
+  ↓
+Jenkins
+  ↓
+Build & Test
+  ↓
+SonarQube
+  ↓
+OWASP Dependency-Check
+  ↓
+Trivy
+  ↓
+Docker Build
+  ↓
+AWS EC2
+  ↓
+Health Check
+```
 
 ---
 
-# 💬 Quote
+# ☸️ Kubernetes & Monitoring
 
-> **"Automate everything. Learn continuously. Deliver reliably."**
+Hands-on Kubernetes projects involving application deployment, rolling updates, rollbacks, Prometheus monitoring and Grafana dashboards.
 
 ---
 
-<p align="center">
+# ☁️ AWS Projects
 
-### ⭐ Thanks for visiting my profile ⭐
+Hands-on AWS projects involving:
 
-</p>
+* EC2
+* S3
+* IAM
+* Nginx
+* Docker
+* CI/CD
+* Infrastructure automation
+* Application deployment
+
+---
+
+# 📈 Current Focus
+
+```text
+DevOps
+   ↓
+AWS
+   ↓
+Kubernetes
+   ↓
+DevSecOps
+   ↓
+Cloud Security
+   ↓
+Cloud Architecture
+```
+
+Currently strengthening:
+
+* Advanced AWS
+* Kubernetes
+* Terraform
+* CI/CD
+* DevSecOps
+* Cloud Security
+* Monitoring & Observability
+* Infrastructure Automation
+
+---
+
+# 🎯 Career Direction
+
+My long-term goal is to build deep expertise across:
+
+**DevOps → DevSecOps → Cloud Security → Cloud Architecture**
+
+I want to build reliable, secure, automated and scalable cloud systems while continuously improving my infrastructure and security engineering skills.
+
+---
+
+# 📫 Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/navnit-kumar-0b7475307/
+
+### GitHub
+
+https://github.com/navnitkumar927
+
+### Portfolio
+
+https://navnit-dev-ops-portfolio-brni.vercel.app/
+
+---
+
+⭐ Thanks for visiting my profile.
