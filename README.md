@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navnit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Navnit Rathore</h1>
 
 <h3 align="center">DevOps Engineer | AWS | Azure | Kubernetes | Cloud Enthusiast</h3>
 
